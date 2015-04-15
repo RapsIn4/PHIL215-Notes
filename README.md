@@ -1,2 +1,2 @@
-# PHIL215-Notes
-UWaterloo PHIL215 Notes
+# UWaterloo PHIL215 Notes
+Summarized notes for quick review
